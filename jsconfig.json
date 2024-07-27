@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    },
+    "jsx": "preserve",
+    "target": "ES6"
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}
